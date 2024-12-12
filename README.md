@@ -4,7 +4,7 @@
       <h1>👋 Olá, mundo! Eu sou a @adrihtml</h1>
       <p>⚙️ <strong>Futura Engenheira da Computação</strong></p>
       <p>🎯 <strong>Foco em:</strong> Construir soluções que otimizem processos.</p>
-      <p>🚀 <strong>Atualmente explorando:</strong> O mundo do Python, SQL e Power BI e dados para fluxos de trabalho.</p>
+      <p>🚀 <strong>Atualmente explorando:</strong> O mundo do Python, SQL, Power BI e dados para fluxos de trabalho.</p>
       <p>💡 <strong>Apaixonada por:</strong> Combinar pensamento analítico com solução criativa de problemas para tornar os negócios mais inteligentes.</p>
       <p>🌟 <strong>Missão:</strong> Contribuir com projetos inovadores que façam a diferença no mundo e na tecnologia!</p>
     </td>
@@ -24,6 +24,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" loading="lazy" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" loading="lazy" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://github.com/user-attachments/assets/ea6d5c7c-a7ab-4b08-ae23-23fa2f82e562" loading="lazy" width="40" height="40"/>
+
 
   <p><strong>Linguagens de Programação</strong></p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" loading="lazy" width="40" height="40"/>
@@ -34,7 +36,12 @@
   <p><strong>Ferramentas e Plataformas</strong></p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" loading="lazy" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" loading="lazy" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" loading="lazy" width="40" height="40"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://github.com/user-attachments/assets/9d940c36-633b-4146-895d-7386d11a95a9" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://github.com/user-attachments/assets/a6c1cd6d-335e-48e0-9ee1-6ad73b3d9699" loading="lazy" width="40" height="40"/>
 
   <h1>Sistemas Operacionais:</h1>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" loading="lazy" width="40" height="40"/>
