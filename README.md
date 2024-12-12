@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1>👋 Olá, mundo! Eu sou a @adrihtml</h1>
-      <p>⚙️ <strong>Futura Engenheira de Computação</strong></p>
+      <p>⚙️ <strong>Futura Engenheira da Computação</strong></p>
       <p>🎯 <strong>Foco em:</strong> Construir soluções que otimizem processos.</p>
       <p>🚀 <strong>Atualmente explorando:</strong> O mundo do Python, SQL e Power BI e dados para fluxos de trabalho.</p>
       <p>💡 <strong>Apaixonada por:</strong> Combinar pensamento analítico com solução criativa de problemas para tornar os negócios mais inteligentes.</p>
