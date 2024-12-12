@@ -42,7 +42,7 @@
 
 
   
- ![Snake animation](https://github.com/adrihtml/adrihtml/blob/output/github-contribution-grid-snake.svg)
+
 
 
                    
