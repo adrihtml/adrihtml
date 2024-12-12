@@ -40,6 +40,7 @@
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
+
   
  ![Snake animation](https://github.com/adrihtml/adrihtml/blob/output/github-contribution-grid-snake.svg)
 
