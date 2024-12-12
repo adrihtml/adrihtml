@@ -1,19 +1,18 @@
-  
-# 👋 Olá, mundo! Eu sou a @adrihtml  
-
-⚙️ Futura Engenheira de Computação  
-
-🎯 **Foco em:** Construir soluções que otimizem processos.  
-
-🚀 **Atualmente explorando:** O mundo do Python, SQL e Power BI e dados para fluxos de trabalho.  
-
-💡 **Apaixonada por:** Combinar pensamento analítico com solução criativa de problemas para tornar os negócios mais inteligentes.  
-
-🌟 **Missão:** Contribuir com projetos inovadores que façam a diferença no mundo e na tecnologia!
-
-## Vibe:
-
-![Monkey Laptop GIF]([https://media.tenor.com/images/abc12345abcd1234abcd1234abcd1234/tenor.gif](https://tenor.com/pt-PT/view/monkey-laptop-monke-sad-gif-19827145))
+<table>
+  <tr>
+    <td>
+      <h1>👋 Olá, mundo! Eu sou a @adrihtml</h1>
+      <p>⚙️ <strong>Futura Engenheira de Computação</strong></p>
+      <p>🎯 <strong>Foco em:</strong> Construir soluções que otimizem processos.</p>
+      <p>🚀 <strong>Atualmente explorando:</strong> O mundo do Python, SQL e Power BI e dados para fluxos de trabalho.</p>
+      <p>💡 <strong>Apaixonada por:</strong> Combinar pensamento analítico com solução criativa de problemas para tornar os negócios mais inteligentes.</p>
+      <p>🌟 <strong>Missão:</strong> Contribuir com projetos inovadores que façam a diferença no mundo e na tecnologia!</p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/2add1604-a313-458d-aec7-ce0e5f82208c" alt="GIF" style="width: 600px; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 
 # Habilidades em Desenvolvimento:
