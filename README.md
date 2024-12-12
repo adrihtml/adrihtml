@@ -14,36 +14,56 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+       <td>
+      <h1>Habilidades em Desenvolvimento:</h1>
 
-# Habilidades em Desenvolvimento:
+  <p><strong>Banco de Dados</strong></p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" loading="lazy" width="40" height="40"/>
 
-*Banco de Dados*
+  <p><strong>Linguagens de Programação</strong></p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" loading="lazy" width="40" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" loading="lazy" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" loading="lazy" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" loading="lazy" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" loading="lazy" width="40" height="40"/>
+  <p><strong>Ferramentas e Plataformas</strong></p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" loading="lazy" width="40" height="40"/>
 
-*Linguagens de Programação*
+  <h1>Sistemas Operacionais:</h1>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" loading="lazy" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" loading="lazy" width="40" height="40"/>
+    </td>
+  <td>
+  <img src="https://github.com/user-attachments/assets/949b99ef-1cd3-4c77-af1f-dd4f81434fbf" alt="Cats GIF" style="width: 300px; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" loading="lazy" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" loading="lazy" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" loading="lazy" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" loading="lazy" width="40" height="40"/>
-
-*Ferramentas e Plataformas* 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" loading="lazy" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" loading="lazy" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" loading="lazy" width="40" height="40"/>
-          
-          
-
-# Sistemas Operacionais: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" loading="lazy" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
-
-## Contatos
-
-<div>           
-  <a href="mailto:adri.bill.cam@gmail.com" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adriana-bill-campe%C3%A3o-engenheira-da-computa%C3%A7%C3%A3o/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
+<table>
+  <tr>
+    <td>
+      <h2> Contatos</h2>
+      <div>           
+        <a href="mailto:adri.bill.cam@gmail.com" target="_blank">
+          <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a>
+        <a href="https://www.linkedin.com/in/adriana-bill-campe%C3%A3o-engenheira-da-computa%C3%A7%C3%A3o/" target="_blank">
+          <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </div>
+    </td>
+  <td>
+  <img src="https://github.com/user-attachments/assets/3c8b3cd1-c100-424a-adf5-4cfcf6937ff6" alt="Monkey Phone Call GIF" style="width: 300px; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
   
 
