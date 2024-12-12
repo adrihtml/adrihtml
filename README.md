@@ -13,7 +13,7 @@
 
 ## Vibe:
 
-![Igotzucc Gif]([https://media.tenor.com/images/7b5a23bc9c81b18fecd8beedcd2e0bc1/tenor.gif](https://tenor.com/pt-PT/view/igotzucc-igotsucc-monke-discord-evsn-gif-19081507))
+![Monkey Laptop GIF]([https://media.tenor.com/images/abc12345abcd1234abcd1234abcd1234/tenor.gif](https://tenor.com/pt-PT/view/monkey-laptop-monke-sad-gif-19827145))
 
 
 # Habilidades em Desenvolvimento:
