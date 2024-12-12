@@ -11,6 +11,11 @@
 
 🌟 **Missão:** Contribuir com projetos inovadores que façam a diferença no mundo e na tecnologia!
 
+## Vibe:
+
+![Igotzucc Gif]([https://media.tenor.com/images/7b5a23bc9c81b18fecd8beedcd2e0bc1/tenor.gif](https://tenor.com/pt-PT/view/igotzucc-igotsucc-monke-discord-evsn-gif-19081507))
+
+
 # Habilidades em Desenvolvimento:
 
 *Banco de Dados*
